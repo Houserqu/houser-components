@@ -1,0 +1,72 @@
+{
+  "config": {
+    "title": "Houser Components",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "props": [
+    {
+      "key": "src/App.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "App",
+          "methods": [],
+          "actualName": "App"
+        }
+      ]
+    },
+    {
+      "key": "src/components/Button/Button.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Button",
+          "methods": [],
+          "actualName": "Button",
+          "props": {
+            "disabled": {
+              "type": {
+                "name": "bool"
+              },
+              "required": false,
+              "description": "是否禁用"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "key": "src/components/Button/index.mdx",
+      "value": {
+        "name": "Button 按钮",
+        "id": "a08e664b64d63394cab05b2e5d624522",
+        "filepath": "src/components/Button/index.mdx",
+        "link": "",
+        "slug": "src-components-button-index",
+        "route": "/src-components-button-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "basic-usage",
+            "depth": 1,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "properties",
+            "depth": 1,
+            "value": "Properties"
+          }
+        ]
+      }
+    }
+  ]
+}
