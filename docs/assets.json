@@ -1,9 +1,13 @@
 {
-  "vendors.js": "/static/js/vendors.554bbb53.js",
-  "vendors.js.map": "/static/js/vendors.705ccdad22be1a80b6fc.js.map",
-  "app.js": "/static/js/app.705ccdad22be1a80b6fc.js",
-  "app.js.map": "/static/js/app.705ccdad22be1a80b6fc.js.map",
-  "src-components-button-index.js": "/static/js/src-components-button-index.6d0e83bd.js",
-  "src-components-button-index.js.map": "/static/js/src-components-button-index.705ccdad22be1a80b6fc.js.map",
-  "index.html": "/index.html"
+  "vendors.js": "/houser-components/static/js/vendors.08b22f5b.js",
+  "vendors.js.map": "/houser-components/static/js/vendors.0f757d6ecf5e00d1196d.js.map",
+  "app.js": "/houser-components/static/js/app.0f757d6ecf5e00d1196d.js",
+  "app.js.map": "/houser-components/static/js/app.0f757d6ecf5e00d1196d.js.map",
+  "src-components-button.js": "/houser-components/static/js/src-components-button.0f3f8a14.js",
+  "src-components-button.js.map": "/houser-components/static/js/src-components-button.0f757d6ecf5e00d1196d.js.map",
+  "src-components-ueditor-ueditor.js": "/houser-components/static/js/src-components-ueditor-ueditor.732a0101.js",
+  "src-components-ueditor-ueditor.js.map": "/houser-components/static/js/src-components-ueditor-ueditor.0f757d6ecf5e00d1196d.js.map",
+  "src-index.js": "/houser-components/static/js/src-index.af39026c.js",
+  "src-index.js.map": "/houser-components/static/js/src-index.0f757d6ecf5e00d1196d.js.map",
+  "index.html": "/houser-components/index.html"
 }
